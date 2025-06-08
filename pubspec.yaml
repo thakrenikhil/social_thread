@@ -1,0 +1,50 @@
+name: threads_clone
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.4
+  liquid_swipe: ^3.1.0
+  smooth_page_indicator: ^1.1.0
+  flutter_otp_text_field: ^1.1.1
+  like_button: ^2.0.5
+  splash_view: ^2.0.1
+  url_launcher: ^6.1.12
+  custom_refresh_indicator: ^2.2.1
+  image_picker: ^1.0.2
+  flutter_riverpod: ^2.4.9
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/on_boarding_images/
+    - assets/images/welcome_images/
+    - assets/images/logo/
+    - assets/images/temp_user_images/
+    - assets/images/signup/
+    - assets/images/screenshots/
+    - assets/images/forget_password/
+    - assets/icons/
+    - assets/videos/
+    - assets/images/refresh_indicator/
