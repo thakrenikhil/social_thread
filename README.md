@@ -68,8 +68,3 @@ If you would like to contribute to this project, please follow the steps below:
 |:--------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:----------------------------------------------------------:|
 | ![](assets/images/screenshots/otp.png) | ![](assets/images/screenshots/reset_via_email.png) | ![](assets/images/screenshots/reset_via_phone.png) | ![](assets/images/screenshots/enter_verification_code.png) |
 
-- Home and Profile
-
-|                  0000                   |                        0001                        |                        0010                        |                      0011                       |
-|:---------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:-----------------------------------------------:|
-| ![](assets/images/screenshots/home.png) | ![](assets/images/screenshots/profile_replies.png) | ![](assets/images/screenshots/profile_threads.png) | ![](assets/images/screenshots/edit_profile.png) |
